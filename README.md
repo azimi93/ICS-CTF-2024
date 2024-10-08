@@ -1,1 +1,2 @@
 # ICS-CTF-2024
+This repository contains write-ups for the Industrial Control Systems (ICS) Capture The Flag (CTF) challenges I have participated in. Each write-up provides a detailed account of the challenges I encountered and the solutions I developed. The aim of this repository is to share knowledge, techniques, and insights gained from solving security challenges within ICS environments. By documenting these experiences, I hope to contribute to the learning and development of the ICS cybersecurity community.
